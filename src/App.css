@@ -1,0 +1,23 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	scroll-beahvior:smooth;
+	
+	
+	}
+	.form-group{
+		margin:30px;
+		
+		}
+		.btns{
+			
+			display:grid;
+			margin:10px;
+			grid-template-columns:auto auto;
+			
+            grid-column-gap:10px;
+            grid-row-gap:10px;
+			
+			}
+			
