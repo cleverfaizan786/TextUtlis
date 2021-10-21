@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TextUtlis-and-Authentication/static/css/main.2d8c67d3.chunk.css",
+    "main.js": "/TextUtlis-and-Authentication/static/js/main.b6013dc4.chunk.js",
+    "main.js.map": "/TextUtlis-and-Authentication/static/js/main.b6013dc4.chunk.js.map",
+    "runtime-main.js": "/TextUtlis-and-Authentication/static/js/runtime-main.075d3ce0.js",
+    "runtime-main.js.map": "/TextUtlis-and-Authentication/static/js/runtime-main.075d3ce0.js.map",
+    "static/css/2.9082872e.chunk.css": "/TextUtlis-and-Authentication/static/css/2.9082872e.chunk.css",
+    "static/js/2.c7929283.chunk.js": "/TextUtlis-and-Authentication/static/js/2.c7929283.chunk.js",
+    "static/js/2.c7929283.chunk.js.map": "/TextUtlis-and-Authentication/static/js/2.c7929283.chunk.js.map",
+    "index.html": "/TextUtlis-and-Authentication/index.html",
+    "static/css/2.9082872e.chunk.css.map": "/TextUtlis-and-Authentication/static/css/2.9082872e.chunk.css.map",
+    "static/css/main.2d8c67d3.chunk.css.map": "/TextUtlis-and-Authentication/static/css/main.2d8c67d3.chunk.css.map",
+    "static/js/2.c7929283.chunk.js.LICENSE.txt": "/TextUtlis-and-Authentication/static/js/2.c7929283.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.075d3ce0.js",
+    "static/css/2.9082872e.chunk.css",
+    "static/js/2.c7929283.chunk.js",
+    "static/css/main.2d8c67d3.chunk.css",
+    "static/js/main.b6013dc4.chunk.js"
+  ]
+}
